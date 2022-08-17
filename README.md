@@ -1,2 +1,2 @@
-NOT EMPTY
-hiiii
+#/bin/bash
+Vagrant
